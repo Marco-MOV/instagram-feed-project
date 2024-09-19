@@ -1,0 +1,85 @@
+.titulo{
+    display: flex;
+    justify-content:center;
+}
+.contenedor{
+    width:600px;
+    height:500px;
+    background-color:rgb(190, 189, 189);
+    margin: 0 auto;
+    position:relative;
+    border:100px;
+}
+.cabecero{
+    display:flex;
+    position:relative;
+}
+.text2{
+    position:absolute;
+    right:5px;
+}
+.DivImg{
+    width:600px;
+    height:360px;
+    display:flex;
+    justify-content:center;
+    background-color:black;
+}
+.imagen{
+    width:400px;
+    height:360px;
+}
+.contenedor2{
+    width:600px;
+    height:500px;
+    background-color:rgb(190, 189, 189);
+    margin: 0 auto;
+    position:relative;
+    border:100px;
+    border-color:white;
+}
+.cabecero2{
+    display:flex;
+    position:relative;
+}
+.child2{
+    position:absolute;
+    right:5px;
+}
+.DivImg2{
+    width:600px;
+    height:360px;
+    display:flex;
+    justify-content:center;
+    background-color:black;
+}
+.imagen2{
+    width:200px;
+}
+.contenedor3{
+    width:600px;
+    height:500px;
+    background-color:rgb(190, 189, 189);
+    margin: 0 auto;
+    position:relative;
+    border:100px;
+    border-color:white;
+}
+.cabecero3{
+    display:flex;
+    position:relative;
+}
+.hijo2{
+    position:absolute;
+    right:5px;
+}
+.DivImg3{
+    width:600px;
+    height:360px;
+    display:flex;
+    justify-content:center;
+    background-color:black;
+}
+p{
+    font-size: large;
+}
